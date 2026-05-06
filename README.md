@@ -88,7 +88,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 **Mizanur Rahman**
 - [GitHub](https://github.com/aurangzeb-sunny)
 - [LinkedIn](https://www.linkedin.com/in/aurangzebsunny/)
-- [Google Scholar](https://scholar.google.com/citations?user=YOUR_ID) <!-- Replace with your actual Google Scholar ID -->
+- [Google Scholar](https://scholar.google.com/citations?user=wTR5tvcAAAAJ&hl=en&authuser=1)
 
 ## 📚 Citation
 If you find this project useful in your research, please cite it:
