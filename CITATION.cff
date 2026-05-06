@@ -6,4 +6,5 @@ authors:
 title: "Sentiment Analysis of Social Media Comments using BiLSTM"
 version: 0.1.0
 date-released: 2026-05-06
+doi: 10.5281/zenodo.20049347
 url: "https://github.com/royestheking-a11y/sentiment-analysis-0.1"

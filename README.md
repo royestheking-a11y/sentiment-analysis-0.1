@@ -1,5 +1,6 @@
 # Bangla Sentiment Analysis Using Machine Learning
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20049347.svg)](https://doi.org/10.5281/zenodo.20049347)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/release/python-380/)
 
@@ -96,6 +97,7 @@ If you find this project useful in your research, please cite it:
 ```bibtex
 @software{Rahman_Sentiment_Analysis_2026,
   author = {Rahman, Mizanur},
+  doi = {10.5281/zenodo.20049347},
   month = {5},
   title = {{Sentiment Analysis of Social Media Comments using BiLSTM}},
   url = {https://github.com/royestheking-a11y/sentiment-analysis-0.1},
