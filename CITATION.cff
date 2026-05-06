@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Rahman"
+  given-names: "Mizanur"
+title: "Sentiment Analysis of Social Media Comments using BiLSTM"
+version: 0.1.0
+date-released: 2026-05-06
+url: "https://github.com/royestheking-a11y/sentiment-analysis-0.1"

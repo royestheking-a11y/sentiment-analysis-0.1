@@ -86,8 +86,23 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 👤 Author
 **Mizanur Rahman**
-- [GitHub](https://github.com/mizanur-rahman)
-- [LinkedIn](https://linkedin.com/in/mizanur-rahman)
+- [GitHub](https://github.com/aurangzeb-sunny)
+- [LinkedIn](https://www.linkedin.com/in/aurangzebsunny/)
+- [Google Scholar](https://scholar.google.com/citations?user=YOUR_ID) <!-- Replace with your actual Google Scholar ID -->
+
+## 📚 Citation
+If you find this project useful in your research, please cite it:
+
+```bibtex
+@software{Rahman_Sentiment_Analysis_2026,
+  author = {Rahman, Mizanur},
+  month = {5},
+  title = {{Sentiment Analysis of Social Media Comments using BiLSTM}},
+  url = {https://github.com/royestheking-a11y/sentiment-analysis-0.1},
+  version = {0.1.0},
+  year = {2026}
+}
+```
 
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
